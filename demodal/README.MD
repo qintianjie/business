@@ -15,5 +15,3 @@
 4. 根目录 mvn clean package  打包发布
 
 注意：数据库命名规范为下划线（"_"）连接
-
-akk haha aa
